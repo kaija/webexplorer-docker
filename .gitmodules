@@ -1,0 +1,3 @@
+[submodule "webexplorer"]
+	path = webexplorer
+	url = https://github.com/kaija/webexpolorer.git
